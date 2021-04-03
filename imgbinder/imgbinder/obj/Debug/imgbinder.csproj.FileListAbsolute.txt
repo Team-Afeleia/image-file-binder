@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\imgbinder\imgbinder\bin\Debug\imgbinder.exe.config
+C:\Users\user\source\repos\imgbinder\imgbinder\bin\Debug\imgbinder.exe
+C:\Users\user\source\repos\imgbinder\imgbinder\bin\Debug\imgbinder.pdb
+C:\Users\user\source\repos\imgbinder\imgbinder\obj\Debug\imgbinder.csprojAssemblyReference.cache
+C:\Users\user\source\repos\imgbinder\imgbinder\obj\Debug\imgbinder.Form1.resources
+C:\Users\user\source\repos\imgbinder\imgbinder\obj\Debug\imgbinder.Properties.Resources.resources
+C:\Users\user\source\repos\imgbinder\imgbinder\obj\Debug\imgbinder.csproj.GenerateResource.cache
+C:\Users\user\source\repos\imgbinder\imgbinder\obj\Debug\imgbinder.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\imgbinder\imgbinder\obj\Debug\imgbinder.exe
+C:\Users\user\source\repos\imgbinder\imgbinder\obj\Debug\imgbinder.pdb

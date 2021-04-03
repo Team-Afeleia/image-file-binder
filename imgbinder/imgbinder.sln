@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imgbinder", "imgbinder\imgbinder.csproj", "{45CC7B77-C299-4AEB-B813-0A063E2B343A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45CC7B77-C299-4AEB-B813-0A063E2B343A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CC7B77-C299-4AEB-B813-0A063E2B343A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CC7B77-C299-4AEB-B813-0A063E2B343A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CC7B77-C299-4AEB-B813-0A063E2B343A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79B39F1B-2207-4627-A4F0-4088AC73B25E}
+	EndGlobalSection
+EndGlobal
